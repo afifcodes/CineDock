@@ -31,7 +31,7 @@ CineDock is a lightweight Android wrapper built for fast browsing, quick search,
 
 ## Search
 
-Use the search option from the floating menu to search directly from inside the app.
+Use the search option from the floating menu to search directly from inside the app or on the top left corner for accurate results.
 
 ## Account Options
 
