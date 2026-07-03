@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_red">#E50914</color>
+    <color name="accent_red_dark">#B80710</color>
+    <color name="bg_dark">#0A0A0A</color>
+    <color name="black">#000000</color>
+    <color name="border_dark">#2A2A2A</color>
+    <color name="ripple_light">#40FFFFFF</color>
+    <color name="ripple_red">#40E50914</color>
+    <color name="surface_dark">#121212</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="translucent_dark">#D0121212</color>
+    <color name="translucent_error">#EA0A0A0A</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Afif Flix</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="bookmark_removed">Bookmark removed</string>
+    <string name="bookmarks_title">Your Bookmarks</string>
+    <string name="error_download_started">Download started…</string>
+    <string name="error_no_internet_desc">Please check your Wi-Fi or mobile network and try again.</string>
+    <string name="error_no_internet_title">No Internet Connection</string>
+    <string name="error_unavailable_desc">We encountered an issue loading the website. Please retry or try again later.</string>
+    <string name="error_unavailable_title">Website Temporarily Unavailable</string>
+    <string name="no_bookmarks">No bookmarks saved yet</string>
+    <string name="retry">Retry</string>
+    <string name="splash_loading">Loading experience…</string>
+    <style name="Theme.AfifFlix" parent="Theme.MaterialComponents.NoActionBar">
+        
+        <item name="colorPrimary">@color/accent_red</item>
+        <item name="colorPrimaryVariant">@color/accent_red_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/accent_red</item>
+        <item name="colorSecondaryVariant">@color/accent_red_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        
+        
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+    <style name="Theme.AfifFlix.Splash" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+</resources>

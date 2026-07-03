@@ -1,0 +1,4 @@
+#Wed Jun 24 12:55:38 IST 2026
+base.0=E\:\\Afif Flix\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

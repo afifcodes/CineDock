@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_red">#E50914</color>
+    <color name="accent_red_dark">#B80710</color>
+    <color name="bg_dark">#0A0A0A</color>
+    <color name="black">#000000</color>
+    <color name="border_dark">#2A2A2A</color>
+    <color name="ripple_light">#40FFFFFF</color>
+    <color name="ripple_red">#40E50914</color>
+    <color name="surface_dark">#121212</color>
+    <color name="surface_elevated">#1B1B1B</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="translucent_dark">#D0121212</color>
+    <color name="translucent_error">#EA0A0A0A</color>
+    <color name="white">#FFFFFF</color>
+    <string name="account_access">Quick access</string>
+    <string name="account_guest">Guest account</string>
+    <string name="account_overview">Account overview</string>
+    <string name="account_signed_in">Signed in</string>
+    <string name="account_status">Account Status</string>
+    <string name="app_name">CineDock</string>
+    <string name="app_up_to_date">You are using the latest version.</string>
+    <string name="assistive_menu">Open quick actions</string>
+    <string name="bookmark_added">Bookmark added</string>
+    <string name="bookmark_removed">Bookmark removed</string>
+    <string name="bookmarks_cleared">Bookmarks cleared</string>
+    <string name="bookmarks_count">%1$d saved</string>
+    <string name="bookmarks_title">Your Bookmarks</string>
+    <string name="cache_cleared">Cache cleared</string>
+    <string name="check_for_updates">Check for Updates</string>
+    <string name="clear">Clear</string>
+    <string name="clear_bookmarks_message">This removes all saved pages on this device.</string>
+    <string name="clear_bookmarks_title">Clear bookmarks?</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="close">Close</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="current_source_braflix">Current source: Braflix</string>
+    <string name="default_web_client_id" translatable="false">519993846214-4uhp769k37hgtl5ieaq3aq614f02r7p9.apps.googleusercontent.com</string>
+    <string name="display_name">Display Name</string>
+    <string name="display_name_required">Enter a display name</string>
+    <string name="download_update">Download Update</string>
+    <string name="email">Email</string>
+    <string name="error_download_started">Download started…</string>
+    <string name="error_no_internet_desc">Please check your Wi-Fi or mobile network and try again.</string>
+    <string name="error_no_internet_title">No Internet Connection</string>
+    <string name="error_unavailable_desc">We encountered an issue loading the website. Please retry or try again later.</string>
+    <string name="error_unavailable_title">Website Temporarily Unavailable</string>
+    <string name="gcm_defaultSenderId" translatable="false">519993846214</string>
+    <string name="go_home">Go Home</string>
+    <string name="google_api_key" translatable="false">AIzaSyDeHVLIDn7D-aSxycC7zOTqcaNjYKiFAHE</string>
+    <string name="google_app_id" translatable="false">1:519993846214:android:a2338389c9bccb8f1aaac7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDeHVLIDn7D-aSxycC7zOTqcaNjYKiFAHE</string>
+    <string name="google_storage_bucket" translatable="false">afif-flix.firebasestorage.app</string>
+    <string name="maintenance_title">Maintenance</string>
+    <string name="no_bookmarks">No bookmarks saved yet</string>
+    <string name="not_available">Not available</string>
+    <string name="notifications_channel_description">App alerts, updates, and maintenance messages.</string>
+    <string name="notifications_channel_name">CineDock updates</string>
+    <string name="or_use_email">Or use email and password</string>
+    <string name="password">Password</string>
+    <string name="profile_name_label">Display name</string>
+    <string name="profile_saved">Profile saved</string>
+    <string name="profile_settings">Profile &amp; Settings</string>
+    <string name="profile_settings_subtitle">Update your display name or sign out.</string>
+    <string name="project_id" translatable="false">afif-flix</string>
+    <string name="reload_page">Reload Page</string>
+    <string name="retry">Retry</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Movie or show name</string>
+    <string name="search_title">Find something to watch</string>
+    <string name="search_unavailable">Site search is not available on this page right now.</string>
+    <string name="settings">Settings</string>
+    <string name="settings_summary_text">Manage your profile, app updates, and local browsing data.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_subtitle">Sign in to keep your bookmarks synced on this device.</string>
+    <string name="sign_in_title">Welcome back</string>
+    <string name="sign_in_with_google">Continue with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_up">Create Account</string>
+    <string name="splash_brand">CineDock</string>
+    <string name="splash_loading">Loading experience…</string>
+    <string name="splash_trademark">AppsByAfif</string>
+    <string name="toggle_bookmark">Toggle bookmark</string>
+    <string name="update_available">Version %1$s is available.\n\n%2$s</string>
+    <string name="update_check_title">App Updates</string>
+    <string name="update_not_configured">Update checking is ready for Firebase Remote Config. Add an APK URL later to enable download prompts.</string>
+    <string name="user_id">User ID</string>
+    <style name="Theme.AfifFlix" parent="Theme.MaterialComponents.NoActionBar">
+        
+        <item name="colorPrimary">@color/accent_red</item>
+        <item name="colorPrimaryVariant">@color/accent_red_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/accent_red</item>
+        <item name="colorSecondaryVariant">@color/accent_red_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        
+        
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+    <style name="Theme.AfifFlix.Splash" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+</resources>

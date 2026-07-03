@@ -1,0 +1,36 @@
+com.afif.flix.app-startup-runtime-1.1.1-0 C:\Users\afifk\.gradle\caches\8.14.3\transforms\085f130425d3cc1187eff017206ce461\transformed\startup-runtime-1.1.1\res
+com.afif.flix.app-emoji2-views-helper-1.2.0-1 C:\Users\afifk\.gradle\caches\8.14.3\transforms\0b1facccd873521a747963d6c818eb9c\transformed\emoji2-views-helper-1.2.0\res
+com.afif.flix.app-constraintlayout-2.1.4-2 C:\Users\afifk\.gradle\caches\8.14.3\transforms\0fc1e2d375e3b47684c9b9d5ff3e891c\transformed\constraintlayout-2.1.4\res
+com.afif.flix.app-viewpager2-1.0.0-3 C:\Users\afifk\.gradle\caches\8.14.3\transforms\1235e5be025ffe8e087ed56cc5288239\transformed\viewpager2-1.0.0\res
+com.afif.flix.app-lifecycle-viewmodel-savedstate-2.6.1-4 C:\Users\afifk\.gradle\caches\8.14.3\transforms\155804028961dd12990740d7673b00a4\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.afif.flix.app-appcompat-resources-1.6.1-5 C:\Users\afifk\.gradle\caches\8.14.3\transforms\20e6f013e9a24cf8e45c202e8a0ee2ae\transformed\appcompat-resources-1.6.1\res
+com.afif.flix.app-savedstate-1.2.1-6 C:\Users\afifk\.gradle\caches\8.14.3\transforms\33e23a07e79291bd5a5ffe6d5b356ad7\transformed\savedstate-1.2.1\res
+com.afif.flix.app-lifecycle-livedata-2.6.1-7 C:\Users\afifk\.gradle\caches\8.14.3\transforms\3d2db4b0d0a0d66699f98da057414577\transformed\lifecycle-livedata-2.6.1\res
+com.afif.flix.app-core-runtime-2.2.0-8 C:\Users\afifk\.gradle\caches\8.14.3\transforms\57314a33882d2111ddd480806385d478\transformed\core-runtime-2.2.0\res
+com.afif.flix.app-core-1.12.0-9 C:\Users\afifk\.gradle\caches\8.14.3\transforms\57729d7c3126caeb724025b3b5657666\transformed\core-1.12.0\res
+com.afif.flix.app-recyclerview-1.1.0-10 C:\Users\afifk\.gradle\caches\8.14.3\transforms\5bd23998f77738154207d6877880f6cd\transformed\recyclerview-1.1.0\res
+com.afif.flix.app-lifecycle-runtime-2.6.1-11 C:\Users\afifk\.gradle\caches\8.14.3\transforms\63ce754f727ad7bc9031d87fe0857943\transformed\lifecycle-runtime-2.6.1\res
+com.afif.flix.app-lifecycle-process-2.6.1-12 C:\Users\afifk\.gradle\caches\8.14.3\transforms\64e08dffef515aebe013a57ca37cdae4\transformed\lifecycle-process-2.6.1\res
+com.afif.flix.app-cardview-1.0.0-13 C:\Users\afifk\.gradle\caches\8.14.3\transforms\7105e78472a2185fb3e26a8b7c1b07bd\transformed\cardview-1.0.0\res
+com.afif.flix.app-lifecycle-livedata-core-2.6.1-14 C:\Users\afifk\.gradle\caches\8.14.3\transforms\800e281e71270525e9ea12af83fdf282\transformed\lifecycle-livedata-core-2.6.1\res
+com.afif.flix.app-material-1.11.0-15 C:\Users\afifk\.gradle\caches\8.14.3\transforms\97e7163c175be0af42c19e902dadeda8\transformed\material-1.11.0\res
+com.afif.flix.app-core-ktx-1.12.0-16 C:\Users\afifk\.gradle\caches\8.14.3\transforms\988bbdda71ea089c7f843241c1e19560\transformed\core-ktx-1.12.0\res
+com.afif.flix.app-activity-1.8.0-17 C:\Users\afifk\.gradle\caches\8.14.3\transforms\9eb6f53542b6238890f436d21169c66f\transformed\activity-1.8.0\res
+com.afif.flix.app-fragment-1.3.6-18 C:\Users\afifk\.gradle\caches\8.14.3\transforms\aebf1fe2f2571518dac874be7123bb51\transformed\fragment-1.3.6\res
+com.afif.flix.app-annotation-experimental-1.3.0-19 C:\Users\afifk\.gradle\caches\8.14.3\transforms\b01ba18e06c9436a12fce3286a272422\transformed\annotation-experimental-1.3.0\res
+com.afif.flix.app-transition-1.2.0-20 C:\Users\afifk\.gradle\caches\8.14.3\transforms\c7687d7c5929eebf98100d789d8ef66d\transformed\transition-1.2.0\res
+com.afif.flix.app-swiperefreshlayout-1.1.0-21 C:\Users\afifk\.gradle\caches\8.14.3\transforms\d3b67057fc356a9c1a83ec4f7a9d353a\transformed\swiperefreshlayout-1.1.0\res
+com.afif.flix.app-drawerlayout-1.1.1-22 C:\Users\afifk\.gradle\caches\8.14.3\transforms\e67c99f56952dc635f1a513923aeea66\transformed\drawerlayout-1.1.1\res
+com.afif.flix.app-emoji2-1.2.0-23 C:\Users\afifk\.gradle\caches\8.14.3\transforms\ec2cb48f021f365e6e524788d8f98f0e\transformed\emoji2-1.2.0\res
+com.afif.flix.app-lifecycle-viewmodel-2.6.1-24 C:\Users\afifk\.gradle\caches\8.14.3\transforms\ed418f4e58faed63ea5df364feafe8f4\transformed\lifecycle-viewmodel-2.6.1\res
+com.afif.flix.app-appcompat-1.6.1-25 C:\Users\afifk\.gradle\caches\8.14.3\transforms\f24d602791d5fbce04c418c85b9c9972\transformed\appcompat-1.6.1\res
+com.afif.flix.app-profileinstaller-1.3.0-26 C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\res
+com.afif.flix.app-coordinatorlayout-1.1.0-27 C:\Users\afifk\.gradle\caches\8.14.3\transforms\f578e56055874eb58d4c10d33dd565d4\transformed\coordinatorlayout-1.1.0\res
+com.afif.flix.app-pngs-28 E:\Afif Flix\app\build\generated\res\pngs\release
+com.afif.flix.app-resValues-29 E:\Afif Flix\app\build\generated\res\resValues\release
+com.afif.flix.app-packageReleaseResources-30 E:\Afif Flix\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.afif.flix.app-packageReleaseResources-31 E:\Afif Flix\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.afif.flix.app-merged-not-compiled-resources-32 E:\Afif Flix\app\build\intermediates\merged-not-compiled-resources\release
+com.afif.flix.app-release-33 E:\Afif Flix\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.afif.flix.app-main-34 E:\Afif Flix\app\src\main\res
+com.afif.flix.app-release-35 E:\Afif Flix\app\src\release\res

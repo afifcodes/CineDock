@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519993846214",
+    "project_id": "afif-flix",
+    "storage_bucket": "afif-flix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519993846214:android:a2338389c9bccb8f1aaac7",
+        "android_client_info": {
+          "package_name": "com.afif.flix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519993846214-mno23klr298ee5s5n1m5kmj2mdeqm5v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afif.flix",
+            "certificate_hash": "b5dc100597aa195234c2a8e0209398f424ce02cb"
+          }
+        },
+        {
+          "client_id": "519993846214-4uhp769k37hgtl5ieaq3aq614f02r7p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHVLIDn7D-aSxycC7zOTqcaNjYKiFAHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519993846214-4uhp769k37hgtl5ieaq3aq614f02r7p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

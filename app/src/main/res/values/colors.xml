@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="bg_dark">#0A0A0A</color>
+    <color name="surface_dark">#121212</color>
+    <color name="surface_elevated">#1B1B1B</color>
+    <color name="border_dark">#2A2A2A</color>
+    <color name="accent_red">#E50914</color>
+    <color name="accent_red_dark">#B80710</color>
+    
+    <!-- Text and general UI -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="translucent_dark">#D0121212</color>
+    <color name="translucent_error">#EA0A0A0A</color>
+    
+    <!-- Button Ripple and highlights -->
+    <color name="ripple_light">#40FFFFFF</color>
+    <color name="ripple_red">#40E50914</color>
+</resources>

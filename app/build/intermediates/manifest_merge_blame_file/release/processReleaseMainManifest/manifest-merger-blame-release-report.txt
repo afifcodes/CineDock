@@ -1,0 +1,164 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.github.com/tools"
+4    package="com.afif.flix"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="26"
+10        android:targetSdkVersion="35" />
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\Afif Flix\app\src\main\AndroidManifest.xml:4:5-67
+12-->E:\Afif Flix\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->E:\Afif Flix\app\src\main\AndroidManifest.xml:5:5-79
+13-->E:\Afif Flix\app\src\main\AndroidManifest.xml:5:22-76
+14
+15    <!-- Scoped storage: write permission only needed for Android 8.0 (API 26) and Android 9.0 (API 28) -->
+16    <uses-permission
+16-->E:\Afif Flix\app\src\main\AndroidManifest.xml:8:5-10:38
+17        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+17-->E:\Afif Flix\app\src\main\AndroidManifest.xml:9:9-65
+18        android:maxSdkVersion="28" />
+18-->E:\Afif Flix\app\src\main\AndroidManifest.xml:10:9-35
+19
+20    <permission
+20-->[androidx.core:core:1.12.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\57729d7c3126caeb724025b3b5657666\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+21        android:name="com.afif.flix.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+21-->[androidx.core:core:1.12.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\57729d7c3126caeb724025b3b5657666\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+22        android:protectionLevel="signature" />
+22-->[androidx.core:core:1.12.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\57729d7c3126caeb724025b3b5657666\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+23
+24    <uses-permission android:name="com.afif.flix.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+24-->[androidx.core:core:1.12.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\57729d7c3126caeb724025b3b5657666\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+24-->[androidx.core:core:1.12.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\57729d7c3126caeb724025b3b5657666\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+25
+26    <application
+26-->E:\Afif Flix\app\src\main\AndroidManifest.xml:12:5-42:19
+27        android:allowBackup="true"
+27-->E:\Afif Flix\app\src\main\AndroidManifest.xml:13:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.12.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\57729d7c3126caeb724025b3b5657666\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+29        android:dataExtractionRules="@xml/data_extraction_rules"
+29-->E:\Afif Flix\app\src\main\AndroidManifest.xml:14:9-65
+30        android:extractNativeLibs="false"
+31        android:fullBackupContent="@xml/backup_rules"
+31-->E:\Afif Flix\app\src\main\AndroidManifest.xml:15:9-54
+32        android:hardwareAccelerated="true"
+32-->E:\Afif Flix\app\src\main\AndroidManifest.xml:21:9-43
+33        android:icon="@drawable/ic_launcher"
+33-->E:\Afif Flix\app\src\main\AndroidManifest.xml:16:9-45
+34        android:label="@string/app_name"
+34-->E:\Afif Flix\app\src\main\AndroidManifest.xml:17:9-41
+35        android:roundIcon="@drawable/ic_launcher"
+35-->E:\Afif Flix\app\src\main\AndroidManifest.xml:18:9-50
+36        android:supportsRtl="true"
+36-->E:\Afif Flix\app\src\main\AndroidManifest.xml:19:9-35
+37        android:theme="@style/Theme.AfifFlix"
+37-->E:\Afif Flix\app\src\main\AndroidManifest.xml:20:9-46
+38        tools:targetApi="31" >
+38-->E:\Afif Flix\app\src\main\AndroidManifest.xml:22:9-29
+39        <activity
+39-->E:\Afif Flix\app\src\main\AndroidManifest.xml:24:9-33:20
+40            android:name="com.afif.flix.SplashActivity"
+40-->E:\Afif Flix\app\src\main\AndroidManifest.xml:25:13-43
+41            android:exported="true"
+41-->E:\Afif Flix\app\src\main\AndroidManifest.xml:26:13-36
+42            android:screenOrientation="portrait"
+42-->E:\Afif Flix\app\src\main\AndroidManifest.xml:27:13-49
+43            android:theme="@style/Theme.AfifFlix.Splash" >
+43-->E:\Afif Flix\app\src\main\AndroidManifest.xml:28:13-57
+44            <intent-filter>
+44-->E:\Afif Flix\app\src\main\AndroidManifest.xml:29:13-32:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->E:\Afif Flix\app\src\main\AndroidManifest.xml:30:17-69
+45-->E:\Afif Flix\app\src\main\AndroidManifest.xml:30:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->E:\Afif Flix\app\src\main\AndroidManifest.xml:31:17-77
+47-->E:\Afif Flix\app\src\main\AndroidManifest.xml:31:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->E:\Afif Flix\app\src\main\AndroidManifest.xml:35:9-40:53
+51            android:name="com.afif.flix.MainActivity"
+51-->E:\Afif Flix\app\src\main\AndroidManifest.xml:36:13-41
+52            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|keyboardHidden"
+52-->E:\Afif Flix\app\src\main\AndroidManifest.xml:38:13-106
+53            android:exported="false"
+53-->E:\Afif Flix\app\src\main\AndroidManifest.xml:37:13-37
+54            android:hardwareAccelerated="true"
+54-->E:\Afif Flix\app\src\main\AndroidManifest.xml:39:13-47
+55            android:theme="@style/Theme.AfifFlix" />
+55-->E:\Afif Flix\app\src\main\AndroidManifest.xml:40:13-50
+56
+57        <provider
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\ec2cb48f021f365e6e524788d8f98f0e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+58            android:name="androidx.startup.InitializationProvider"
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\ec2cb48f021f365e6e524788d8f98f0e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+59            android:authorities="com.afif.flix.androidx-startup"
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\ec2cb48f021f365e6e524788d8f98f0e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+60            android:exported="false" >
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\ec2cb48f021f365e6e524788d8f98f0e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+61            <meta-data
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\ec2cb48f021f365e6e524788d8f98f0e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+62                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\ec2cb48f021f365e6e524788d8f98f0e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+63                android:value="androidx.startup" />
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\ec2cb48f021f365e6e524788d8f98f0e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+64            <meta-data
+64-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\afifk\.gradle\caches\8.14.3\transforms\64e08dffef515aebe013a57ca37cdae4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+65-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\afifk\.gradle\caches\8.14.3\transforms\64e08dffef515aebe013a57ca37cdae4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+66                android:value="androidx.startup" />
+66-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\afifk\.gradle\caches\8.14.3\transforms\64e08dffef515aebe013a57ca37cdae4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+68-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+69                android:value="androidx.startup" />
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+70        </provider>
+71
+72        <receiver
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+73            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+74            android:directBootAware="false"
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+75            android:enabled="true"
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+76            android:exported="true"
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+77            android:permission="android.permission.DUMP" >
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+78            <intent-filter>
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+79                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+80            </intent-filter>
+81            <intent-filter>
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+82                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+83            </intent-filter>
+84            <intent-filter>
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+85                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+86            </intent-filter>
+87            <intent-filter>
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+88                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\afifk\.gradle\caches\8.14.3\transforms\f32d21bbaff71fad60ec1299b8f551fd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+89            </intent-filter>
+90        </receiver>
+91    </application>
+92
+93</manifest>
